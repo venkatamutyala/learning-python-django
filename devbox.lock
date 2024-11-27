@@ -65,62 +65,12 @@
         }
       }
     },
-    "python@3.11.10": {
-      "last_modified": "2024-11-16T04:25:12Z",
+    "python@3.9.10": {
+      "last_modified": "2022-03-21T18:25:50Z",
       "plugin_version": "0.0.4",
-      "resolved": "github:NixOS/nixpkgs/34a626458d686f1b58139620a8b2793e9e123bba#python311",
+      "resolved": "github:NixOS/nixpkgs/4c3c80df545ec5cb26b5480979c3e3f93518cbe5#python3",
       "source": "devbox-search",
-      "version": "3.11.10",
-      "systems": {
-        "aarch64-darwin": {
-          "outputs": [
-            {
-              "name": "out",
-              "path": "/nix/store/qw9bwqbwcai9iaqiyir18knz91sff9am-python3-3.11.10",
-              "default": true
-            }
-          ],
-          "store_path": "/nix/store/qw9bwqbwcai9iaqiyir18knz91sff9am-python3-3.11.10"
-        },
-        "aarch64-linux": {
-          "outputs": [
-            {
-              "name": "out",
-              "path": "/nix/store/9q4bq9grl6cxgakbi4aj8w8hp3x3vf29-python3-3.11.10",
-              "default": true
-            },
-            {
-              "name": "debug",
-              "path": "/nix/store/mkhy5l0xyj8hxq58nkfxp0yl9i5adls7-python3-3.11.10-debug"
-            }
-          ],
-          "store_path": "/nix/store/9q4bq9grl6cxgakbi4aj8w8hp3x3vf29-python3-3.11.10"
-        },
-        "x86_64-darwin": {
-          "outputs": [
-            {
-              "name": "out",
-              "path": "/nix/store/291hgygyzl786kbyzs3svlqplxs9rr4m-python3-3.11.10",
-              "default": true
-            }
-          ],
-          "store_path": "/nix/store/291hgygyzl786kbyzs3svlqplxs9rr4m-python3-3.11.10"
-        },
-        "x86_64-linux": {
-          "outputs": [
-            {
-              "name": "out",
-              "path": "/nix/store/igyzv5c2v672mhmx1ha1i7062y6rggqs-python3-3.11.10",
-              "default": true
-            },
-            {
-              "name": "debug",
-              "path": "/nix/store/agpz5hvhh2hz1rc29iksvc1zb36v483s-python3-3.11.10-debug"
-            }
-          ],
-          "store_path": "/nix/store/igyzv5c2v672mhmx1ha1i7062y6rggqs-python3-3.11.10"
-        }
-      }
+      "version": "3.9.10"
     }
   }
 }
